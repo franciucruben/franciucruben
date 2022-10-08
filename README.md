@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ruben
+- 👀 I’m interested in working together with other developers in building amazing websites using React
+- 🌱 I’m currently learning React, HTML, CSS and TypeScript
+- 📫 You can reach me by email at franciucruben@yahoo.com
